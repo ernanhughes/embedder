@@ -1,3 +1,10 @@
 transformers==4.42.4
 einops 
 datasets
+pyqt6
+wordllama
+typer
+rich
+click
+lancedb
+python_dotenv
